@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="#features">Features</a> •
+  • <a href="#features">Features</a> •
   <a href="#how-to-use">How to Use</a> •
   <a href="#Usage">Usage</a> •
   <a href="#follow-the-prompts">Follow the Prompts</a> •
