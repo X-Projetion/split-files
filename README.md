@@ -2,8 +2,17 @@
 [![license](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
 [![issues](https://img.shields.io/github/issues/X-Projetion/split-files?color=blue)](https://github.com/X-Projetion/split-files/issues)
 
+
 <p align="center">
     <img src="https://raw.githubusercontent.com/X-Projetion/split-files/main/split-files.png" alt="split files" width="60%">
+    ## Resources
+- [Features](#features)
+- [How to Use](#how-to-use)
+- [Usage](#usage)
+- [Follow the Prompts](#follow-the-prompts)
+- [Installation via PyPI](#installation-via-pypi)
+- [Help](#help)
+- [License](#license)
 </p>
 
 ## File Splitter by Lines
