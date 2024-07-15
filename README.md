@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="split-files.png" alt="split files" width="200px">
+  <img src="split-files.png" alt="split files" width="400px">
   <br>
 </h1>
 
