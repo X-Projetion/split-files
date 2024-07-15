@@ -47,6 +47,7 @@ cd split-files
 - pip install split-files
 
 ## Help
+```bash
 python3 main.py -h
    _____       ___ __  _______ __
   / ___/____  / (_) /_/ ____(_) /__  _____
@@ -65,6 +66,6 @@ optional arguments:
                         Input file name
   -l LINES_PER_FILE, --lines LINES_PER_FILE
                         Number of lines per file
-
+```
 ## License
 This project is licensed under the MIT License. See the <a href='https://raw.githubusercontent.com/X-Projetion/split-files/main/LICENSE'>LICENSE</a> file for details.
