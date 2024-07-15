@@ -6,6 +6,7 @@
   <a href="https://goreportcard.com/report/github.com/X-Projetion/split-files/"><img src="https://goreportcard.com/badge/github.com/X-Projetion/split-files"></a>
   <a href="https://github.com/X-Projetion/split-files/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
   <a href="https://github.com/X-Projetion/split-files/releases"><img src="https://img.shields.io/github/release/X-Projetion/split-files"></a>
+  <br>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/made%20with-Python-pink.svg"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-pink.svg"></a>
   <a href="https://github.com/X-Projetion/split-files/issues"><img src="https://img.shields.io/github/issues/X-Projetion/split-files?color=pink"></a>
