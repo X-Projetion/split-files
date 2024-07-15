@@ -6,33 +6,18 @@
 <p align="center">
     <img src="https://raw.githubusercontent.com/X-Projetion/split-files/main/split-files.png" alt="split files" width="60%">
 </p>
-<div align="center">
-
-## Resources
-
-- [Features](#features)
-- [How to Use](#how-to-use)
-- [Usage](#usage)
-- [Follow the Prompts](#follow-the-prompts)
-- [Installation via PyPI](#installation-via-pypi)
-- [Help](#help)
-- [License](#license)
-
-</div>
+<ul>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#how-to-use">How to Use</a></li>
+  <li><a href="#usage">Usage</a></li>
+  <li><a href="#follow-the-prompts">Follow the Prompts</a></li>
+  <li><a href="#installation-via-pypi">Installation via PyPI</a></li>
+  <li><a href="#help">Help</a></li>
+  <li><a href="#license">License</a></li>
+</ul>
 
 ## File Splitter by Lines
 This Python script provides a simple yet powerful way to split large text files into smaller files based on the specified number of lines per file. It is designed to facilitate easier management and processing of large datasets by breaking them down into manageable chunks.
-
-
-## Resources
-- [Features](#features)
-- [How to Use](#how-to-use)
-- [Usage](#usage)
-- [Follow the Prompts](#follow-the-prompts)
-- [Installation via PyPI](#installation-via-pypi)
-- [Help](#help)
-- [License](#license)
-
 
 ### Features
 - **Command-line Interface:** Easily specify the input file and the number of lines per output file using command-line arguments (`-f/--files` and `-l/--lines`).
