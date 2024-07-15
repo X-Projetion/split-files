@@ -47,7 +47,24 @@ cd split-files
 - pip install split-files
 
 ## Help
-For more options and detailed usage, refer to the documentation.
+python3 main.py -h
+   _____       ___ __  _______ __
+  / ___/____  / (_) /_/ ____(_) /__  _____
+  \__ \/ __ \/ / / __/ /_  / / / _ \/ ___/
+ ___/ / /_/ / / / /_/ __/ / / /  __(__  )
+/____/ .___/_/_/\__/_/   /_/_/\___/____/v1
+    /_/        x-projetion.org
+
+usage: main.py [-h] -f INPUT_FILE -l LINES_PER_FILE
+
+File Splitter by Lines
+
+optional arguments:
+  -h, --help            show this help message and exit
+  -f INPUT_FILE, --files INPUT_FILE
+                        Input file name
+  -l LINES_PER_FILE, --lines LINES_PER_FILE
+                        Number of lines per file
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the <a href='https://raw.githubusercontent.com/X-Projetion/split-files/main/LICENSE'>LICENSE</a> file for details.
