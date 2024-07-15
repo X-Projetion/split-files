@@ -1,15 +1,11 @@
 <h1 align="center">
-  <img src="split-files.png" alt="split files" width="400px">
+  <img src="split-files.png" alt="split files" width="600px">
   <br>
 </h1>
-
-
 <p align="center">
-<a href="https://goreportcard.com/report/github.com/X-Projetion/split-files/v2"><img src="https://goreportcard.com/badge/github.com/X-Projetion/split-files"></a>
+<a href="https://goreportcard.com/report/github.com/X-Projetion/split-files/"><img src="https://goreportcard.com/badge/github.com/X-Projetion/split-files"></a>
 <a href="https://github.com/X-Projetion/split-files/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
 <a href="https://github.com/X-Projetion/split-files/releases"><img src="https://img.shields.io/github/release/X-Projetion/split-files"></a>
-<a href="https://twitter.com/pdiscoveryio"><img src="https://img.shields.io/twitter/follow/pdiscoveryio.svg?logo=twitter"></a>
-<a href="https://discord.gg/X-Projetion"><img src="https://img.shields.io/discord/695645237418131507.svg?logo=discord"></a>
 </p>
 
 <p align="center">
@@ -21,6 +17,7 @@
   <a href="#Help">Help</a>
   <a href="license">License</a>
 </p>
+
 
 ## File Splitter by Lines
 This Python script provides a simple yet powerful way to split large text files into smaller files based on the specified number of lines per file. It is designed to facilitate easier management and processing of large datasets by breaking them down into manageable chunks.
