@@ -5,7 +5,11 @@
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/X-Projetion/split-files/main/split-files.png" alt="split files" width="60%">
-    ## Resources
+</p>
+<div align="center">
+
+## Resources
+
 - [Features](#features)
 - [How to Use](#how-to-use)
 - [Usage](#usage)
@@ -13,7 +17,8 @@
 - [Installation via PyPI](#installation-via-pypi)
 - [Help](#help)
 - [License](#license)
-</p>
+
+</div>
 
 ## File Splitter by Lines
 This Python script provides a simple yet powerful way to split large text files into smaller files based on the specified number of lines per file. It is designed to facilitate easier management and processing of large datasets by breaking them down into manageable chunks.
