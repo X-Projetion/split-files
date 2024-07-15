@@ -12,7 +12,6 @@
   <a href="https://github.com/X-Projetion/split-files/issues"><img src="https://img.shields.io/github/issues/X-Projetion/split-files?color=pink"></a>
 </p>
 
-
 <p align="center">
   • <a href="#features">Features</a> •
   <a href="#how-to-use">How to Use</a> •
@@ -23,11 +22,10 @@
   <a href="license">License</a>
 </p>
 
-
 ## File Splitter by Lines
 This Python script provides a simple yet powerful way to split large text files into smaller files based on the specified number of lines per file. It is designed to facilitate easier management and processing of large datasets by breaking them down into manageable chunks.
 
-### Features
+## Features
 - **Command-line Interface:** Easily specify the input file and the number of lines per output file using command-line arguments (`-f/--files` and `-l/--lines`).
 - **Clear Feedback:** Error messages are displayed in red for quick identification of issues, while success messages are shown in green upon successful file creation.
 - **Cross-platform Compatibility:** Works seamlessly on Windows, Unix, and Linux systems.
